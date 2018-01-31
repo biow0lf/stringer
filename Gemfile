@@ -38,6 +38,7 @@ gem 'strong_password'
 gem 'feedbag'
 gem 'feedjira', '~> 2.1.4'
 # gem 'feedjira', '~> 3.0.0.beta1'
+gem 'nori'
 # gem 'pundit'
 gem 'whenever', require: false
 gem 'sidekiq', require: false

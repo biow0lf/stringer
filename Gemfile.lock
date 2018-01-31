@@ -206,6 +206,7 @@ GEM
     nio4r (2.2.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    nori (2.6.0)
     open_uri_redirections (0.2.1)
     parallel (1.12.1)
     parser (2.5.0.0)
@@ -415,6 +416,7 @@ DEPENDENCIES
   loofah
   newrelic_rpm
   nokogiri
+  nori
   pg (~> 0.18)
   pry-rails
   puma (~> 3.11)
