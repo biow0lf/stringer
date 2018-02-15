@@ -36,7 +36,7 @@ gem 'dotenv-rails'
 gem 'email_address'
 gem 'strong_password'
 gem 'feedbag'
-gem 'feedjira', '~> 2.1.0'
+gem 'feedjira', '~> 2.1.4'
 # gem 'feedjira', '~> 3.0.0.beta1'
 # gem 'pundit'
 gem 'whenever', require: false
