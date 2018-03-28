@@ -78,7 +78,7 @@ group :development, :test do
   gem 'chromedriver-helper'
   gem 'capybara-screenshot'
 
-  gem "rack-test", "~> 0.6"
+  gem "rack-test", "~> 1.0"
   gem "rspec-html-matchers", "~> 0.7"
   gem "timecop", "~> 0.8"
 end
