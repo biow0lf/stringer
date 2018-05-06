@@ -85,8 +85,8 @@ GEM
       rack (>= 1.0.0)
       rack-test (>= 0.5.4)
       xpath (>= 2.0, < 4.0)
-    capybara-screenshot (1.0.18)
-      capybara (>= 1.0, < 3)
+    capybara-screenshot (1.0.21)
+      capybara (>= 1.0, < 4)
       launchy
     childprocess (0.8.0)
       ffi (~> 1.0, >= 1.0.11)
@@ -220,10 +220,10 @@ GEM
       pry (>= 0.10.4)
     public_suffix (3.0.2)
     puma (3.11.2)
-    rack (2.0.4)
+    rack (2.0.5)
     rack-protection (2.0.1)
       rack
-    rack-test (0.8.2)
+    rack-test (0.8.3)
       rack (>= 1.0, < 3)
     rails (5.2.0.rc1)
       actioncable (= 5.2.0.rc1)
